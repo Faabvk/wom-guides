@@ -13,7 +13,7 @@
 ## Wise Old Man guides
 A collection of guides to help users understand how Wise Old Man works, and how they can make the best use of it
 
-[How Wise Old Man works](https://github.com/Faabvk/wom-guides/how-wom-works.md)
+[How Wise Old Man works](https://github.com/Faabvk/wom-guides/blob/main/how-wom-works.md)
 
 To do:
 - Understanding "Players"
